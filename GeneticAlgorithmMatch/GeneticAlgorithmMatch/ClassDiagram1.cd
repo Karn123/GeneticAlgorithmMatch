@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="GeneticAlgorithmMatch.Chromosome">
+    <Position X="8.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BCAoAAAQIAAQBAAAEAAAAgAAACAAAAQABAAAAhAAIAA=</HashCode>
+      <FileName>Chromosome.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GeneticAlgorithmMatch.Distance">
+    <Position X="6.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAABAAAAAAAAIAAAAAAAAAAAAAAgAAAAIAAAACA=</HashCode>
+      <FileName>Distance.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GeneticAlgorithmMatch.GAMatch">
+    <Position X="0.5" Y="0.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>EACABAAAAAAAAAAAAIEAACAAAAAQJAhAAAAgAAAASgA=</HashCode>
+      <FileName>GAMatch.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GeneticAlgorithmMatch.LoadFile">
+    <Position X="5.5" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAACQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIA=</HashCode>
+      <FileName>LoadFile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GeneticAlgorithmMatch.PairTeam">
+    <Position X="12.25" Y="2.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAIAAAAAABAAAACBAAAACAABAAgAA=</HashCode>
+      <FileName>PairTeam.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GeneticAlgorithmMatch.Schedule">
+    <Position X="4" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAGAAAAAAAAQAAAkAgAAIgAABAAAAAAAA=</HashCode>
+      <FileName>Schedule.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GeneticAlgorithmMatch.TimeSlot">
+    <Position X="10.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACACAAAiAgAAAAAAgBAAAIAAAAAAhAAAAAAAAAAA=</HashCode>
+      <FileName>TimeSlot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,6 @@
+c:\users\19068\documents\visual studio 2015\Projects\GeneticAlgorithmMatch\GeneticAlgorithmMatch\bin\Debug\GeneticAlgorithmMatch.exe.config
+c:\users\19068\documents\visual studio 2015\Projects\GeneticAlgorithmMatch\GeneticAlgorithmMatch\bin\Debug\GeneticAlgorithmMatch.exe
+c:\users\19068\documents\visual studio 2015\Projects\GeneticAlgorithmMatch\GeneticAlgorithmMatch\bin\Debug\GeneticAlgorithmMatch.pdb
+c:\users\19068\documents\visual studio 2015\Projects\GeneticAlgorithmMatch\GeneticAlgorithmMatch\obj\Debug\GeneticAlgorithmMatch.csprojResolveAssemblyReference.cache
+c:\users\19068\documents\visual studio 2015\Projects\GeneticAlgorithmMatch\GeneticAlgorithmMatch\obj\Debug\GeneticAlgorithmMatch.exe
+c:\users\19068\documents\visual studio 2015\Projects\GeneticAlgorithmMatch\GeneticAlgorithmMatch\obj\Debug\GeneticAlgorithmMatch.pdb
